@@ -1,0 +1,25 @@
+{
+  "name": "group-994579",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node API/app.js",
+    "watch": "nodemon API/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@rendu-git.etna-alternance.net:module-9231/activity-50328/group-994579.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.7.5",
+    "nodemon": "^2.0.20"
+  }
+}
